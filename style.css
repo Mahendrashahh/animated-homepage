@@ -213,6 +213,9 @@ box-shadow: 0 0 15px rgb(255,255,255,0.3);
 }
 /*mobile*/
 @media(max-width:768px){
+    body{
+        overflow-y:hidden ;
+    }
     header{
         padding: 1rem 01.rem;
 
