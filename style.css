@@ -168,7 +168,7 @@ box-shadow: 0 0 15px rgb(255,255,255,0.3);
     font-size: 1.2rem;
     font-weight: 600;
     letter-spacing: 0.1em;
-    
+    color: white;
     transition: background-color 0.2s ease;
 }
 .btn-start:hover{
